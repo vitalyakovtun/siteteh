@@ -1,0 +1,20 @@
+body{
+    background:#A084CA;
+}
+h1{
+    font-family:Impact, fantasy;
+    margin-bottom: 20px;
+    color:#6F38C5;
+}
+.yvar{
+    float:left;
+    width:25%;
+    width: 360px;
+    height: 400px;
+    padding-left: 15px;
+    border-radius: 30px;
+    }
+.video{
+    border-radius: 30px;
+    margin-top: 20px;
+}
